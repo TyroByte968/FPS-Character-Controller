@@ -14,6 +14,7 @@ This Character Controller is free to use for all purposes, commercial or persona
 
 - The Player GameObject must be set up with the following hierarchy:
   - Root ( > Pivot > Main Camera > Weapons (Optional) > Your Weapon GameObjects (Optional)
+  ![Screenshot 2022-06-04 202552](https://user-images.githubusercontent.com/63674376/172018544-349014db-ecd5-4688-8d16-71165c73a777.png)
 
 - The Root GameObject (Or the Player GameObject) should have the following attached to it:
   - Character Controller
