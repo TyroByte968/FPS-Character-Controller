@@ -85,11 +85,13 @@ public class Player_Movement : MonoBehaviour
         if(IsCrouching&&CanCrouch)
         {
             transform.localScale = CrouchScale;
+            //Adjust the ground check height so footstep audio will play correctly when crouching
             FootstepManager.groundCheckHeight = CrouchGroundCheckHeight;
         }
         else
         {
             transform.localScale = DefScale;
+            //Reset Ground Check Height 
             FootstepManager.groundCheckHeight = defcheckheight;
         }
     }
