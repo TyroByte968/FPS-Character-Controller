@@ -20,5 +20,9 @@ This Character Controller is free to use for all purposes, commercial or persona
   - Character FootSteps Script (From Free Footsteps System Asset)
   - Sensitivity Controller Script (Optional)
 
+- A GameObject (For Ex: Cursor Manager) should be created and the Cursor Manager Script can be applied on it.
+  - Set the Lock Mode to Locked and the Visible bool to False.
+
 # Example Values For Setup
 ![Screenshot (910)](https://user-images.githubusercontent.com/63674376/172017951-0614cd58-ccef-4db9-9ade-a8fbbafff87f.png)
+![Screenshot 2022-06-04 202428](https://user-images.githubusercontent.com/63674376/172018466-4affd308-6a2b-4c4d-b93a-8b94ee09257e.png)
