@@ -1,6 +1,6 @@
 # FPS-Character-Controller
 
-A FPS Character controller used in my game, The Interview (https://tyrobyte.itch.io/the-interview).
+The FPS Character controller used in my game, The Interview (https://tyrobyte.itch.io/the-interview).
 
 # License
 
